@@ -158,7 +158,7 @@ insurance-premium-prediction/
 
 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/insurance-premium-prediction.git
+git clone https://github.com/BeyzaAkgun/insurance-premium-prediction.git
 cd insurance-premium-prediction
 2. Create Virtual Environment
 bash
